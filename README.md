@@ -1,4 +1,4 @@
-# "First, solve the problem. Then, write the code." — John Johnson
+# Hi, I'm Abdellah a full-stack web developer.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vexojs&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
