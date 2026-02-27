@@ -1,16 +1,9 @@
 # Hi, I'm Abdellah a full-stack web developer.
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vexojs&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## 🚀 About Me
-
 Full-stack developer passionate about building scalable, real-time web applications — from pixel-perfect UIs to robust backend systems and cloud deployments.
 
 ---
 
-## 🛠️ Programming Languages, Software & Tools
+##  Programming Languages, Software & Tools
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,14 +43,3 @@ Full-stack developer passionate about building scalable, real-time web applicati
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![vexojs's GitHub stats](https://github-readme-stats.vercel.app/api?username=vexojs&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vexojs&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-**Let's Connect and Build Something Amazing together.** 🤝
